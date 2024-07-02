@@ -12,10 +12,10 @@ This repository contains a collection of games I've developed (or collaborated o
 > During lockdown, I used to play wordle almost daily and thought to make a command-line interface (CLI) version of the same. The name pretty much is justfied :) [`sauce`](https://github.com/npxx/clirdle)
 
 ## **vizu-galaxy** 
-> I made this one as an educational game wherein you're travelling in space and learn about the different celestial objects while driving a spaceship. I also simulated the formation of galaxy using Unity Particles. [`sauce`](https://github.com/npxx/vizu-galaxy)
+> I made this one as an educational game wherein you're travelling in space and learn about the different celestial objects while driving a spaceship. I also simulated the formation of galaxy using Unity Particles. [`sauce`](https://github.com/npxx/vizu-galaxy) [`itch`](https://npxx.itch.io/btmatlo)
 
 ## **bt mat lo!**
-  > This game was developed as a part of an internal game jam at GameDev Club, IITK. It is a nice take on the theme of game jam -- cheating! [`sauce`](https://github.com/npxx/btmatlo)
+  > This game was developed as a part of an internal game jam at GameDev Club, IITK. It is a nice take on the theme of game jam -- cheating! [`sauce`](https://github.com/npxx/btmatlo) [`itch`](https://npxx.itch.io/btmatlo)
 
 ## **airo-clash** 
   > This game was developed as a submission for Takneek '24 GameDev PS. It is a minimal Air Hockey game with little support for single player mode. [`sauce`](https://github.com/npxx/airoclash)
